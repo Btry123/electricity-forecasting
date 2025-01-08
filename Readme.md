@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub](https://img.shields.io/github/license/Btry123/electricity-forecasting)
 
-![Cover Image](./image/power_line.jpg)
+![Cover Image](./Image/power_line.jpg)
 
 This project focuses on forecasting electricity demand using a combination of machine learning and deep learning models. The models implemented include LSTM, Linear Regression, Gradient Boosting, LightGBM, ARIMA, and SARIMA. Comprehensive evaluation metrics, visualizations, and insights are provided to compare model performances and understand their strengths and weaknesses.
 
