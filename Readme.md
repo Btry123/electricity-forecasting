@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub](https://img.shields.io/github/license/Btry123/electricity-forecasting)
 
 ![Cover Image](./Image/power_line.jpg)
 
