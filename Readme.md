@@ -2,6 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub](https://img.shields.io/github/license/Btry123/electricity-forecasting)
+
+![Cover Image](./image/power_line.jpg)
 
 This project focuses on forecasting electricity demand using a combination of machine learning and deep learning models. The models implemented include LSTM, Linear Regression, Gradient Boosting, LightGBM, ARIMA, and SARIMA. Comprehensive evaluation metrics, visualizations, and insights are provided to compare model performances and understand their strengths and weaknesses.
 
@@ -73,22 +76,22 @@ To set up and run this project on your local machine, follow the steps below.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/electricity-forecasting.git
+git clone https://github.com/Btry123/electricity-forecasting.git
 cd electricity-forecasting
 
 🛠️ Create and Activate a Virtual Environment
 
 It’s recommended to use a virtual environment to manage project dependencies.
 
-# Create a virtual environment named 'electricity_env'
-python -m venv electricity_env
+# Create a virtual environment named 'electricity_load_env'
+python -m venv electricity_load_env
 
 # Activate the virtual environment
 # Windows:
-electricity_env\Scripts\activate
+electricity_load_env\Scripts\activate
 
 # macOS/Linux:
-source electricity_env/bin/activate
+source electricity_load_env/bin/activate
 
 📦 Install Required Libraries
 
