@@ -97,15 +97,12 @@ Install all necessary Python libraries using the provided requirements.txt file.
 
 pip install -r requirements.txt
 
-If you don’t have a requirements.txt file, you can create one by running:
-
-pip freeze > requirements.txt
 
 📂 Data Setup
 	1.	Download the Dataset:
 	•	Visit the Kaggle dataset page and download the dataset.
 	2.	Organize the Data:
-	•	Extract the downloaded files and place them into the data/ directory within the project folder.
+	•	Extract the downloaded files and place them into the archive/ directory within the project folder.
 	3.	Verify File Paths:
 	•	Ensure that the file paths in the code match the location of the dataset files. Update them if necessary.
 
@@ -122,14 +119,6 @@ This will run the entire pipeline, including data preprocessing, model training,
 
 Using Jupyter Notebooks
 
-Alternatively, you can interact with the project using Jupyter Notebooks.
-	1.	Launch Jupyter Notebook:
-
-jupyter notebook
-
-
-	2.	Open the Notebook:
-	•	Navigate to forecasting_analysis.ipynb and run the cells sequentially.
 
 🧠 Models
 
